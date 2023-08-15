@@ -103,7 +103,7 @@ npx vercel --prod
 ```
 
 [docs-homepage]: htttps://docs.awd.my.id/next-sanity
-[vercel-deploy]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fputuwahyu29%2Fawd-portofolio-cms&project-name=https%3A%2F%2Fgithub.com%2Fputuwahyu29%2Fawd-portofolio-cms&repository-name=https%3A%2F%2Fgithub.com%2Fputuwahyu29%2Fawd-portofolio-cms&demo-title=Awd+Portofolio+CMS&demo-description=Portfolio&demo-url=https%3A%2F%2Fawd.my.id&demo-image=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F81pocpw8%2Fproduction%2F07a7a03a6ccd03b765b2769acb038f31bcbbab1c-1347x768.png&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx&external-id=%3Btemplate%3Dawd-portofolio-cms
+[vercel-deploy]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fputuwahyu29%2Fawd-portofolio-next-sanity&project-name=https%3A%2F%2Fgithub.com%2Fputuwahyu29%2Fawd-portofolio-next-sanity&repository-name=https%3A%2F%2Fgithub.com%2Fputuwahyu29%2Fawd-portofolio-next-sanity&demo-title=Awd+Portofolio+Next+Sanity&demo-description=Portfolio&demo-url=https%3A%2F%2Fawd-portofolio.awd.my.id&demo-image=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F81pocpw8%2Fproduction%2F07a7a03a6ccd03b765b2769acb038f31bcbbab1c-1347x768.png&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx&external-id=%3Btemplate%3Dawd-portofolio-next-sanity
 [integration]: https://www.sanity.io/docs/vercel-integration?utm_source=github.com&utm_medium=referral&utm_campaign=nextjs-v3vercelstarter
 [`.env.local.example`]: .env.local.example
 [nextjs]: https://github.com/vercel/next.js
