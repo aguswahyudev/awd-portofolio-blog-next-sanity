@@ -6,6 +6,7 @@ import { Metadata } from "next";
 import PreviewNotif from "@/app/components/Common/PreviewNotif";
 
 export const revalidate = 60;
+export const fetchCache = 'force-no-store';
 
 export const metadata: Metadata = {
   title: "Awd - Detail Artikel",

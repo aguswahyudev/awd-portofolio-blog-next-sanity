@@ -6,6 +6,7 @@ import { groq } from "next-sanity";
 import CategoryList from "@/app/components/Blog/CategoryList";
 
 export const revalidate = 60;
+export const fetchCache = 'force-no-store';
 
 export const metadata: Metadata = {
   title: "Awd - Semua Kategori",

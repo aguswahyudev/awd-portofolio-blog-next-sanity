@@ -10,6 +10,7 @@ import PreviewNotif from "@/app/components/Common/PreviewNotif";
 import SidebarProject from "@/app/components/Project/SidebarProject";
 
 export const revalidate = 60;
+export const fetchCache = 'force-no-store';
 
 export const metadata: Metadata = {
   title: "Awd - Detail Proyek",
