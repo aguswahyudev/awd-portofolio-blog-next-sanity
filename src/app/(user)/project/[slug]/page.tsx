@@ -4,13 +4,13 @@ import { groq } from "next-sanity";
 import { getClient } from "lib/client";
 import type { Project } from "common-types";
 import { PortableText } from "@portabletext/react";
-import { RichText } from "@/app/components/Project/RichText";
+import { RichText } from "@/app/components/Common/RichText";
 import { Metadata } from "next";
 import PreviewNotif from "@/app/components/Common/PreviewNotif";
 import SidebarProject from "@/app/components/Project/SidebarProject";
 
 export const revalidate = 60;
-export const fetchCache = 'force-no-store';
+export const fetchCache = "force-no-store";
 
 export const metadata: Metadata = {
   title: "Awd - Detail Proyek",

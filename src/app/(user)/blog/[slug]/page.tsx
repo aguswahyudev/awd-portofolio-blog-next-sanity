@@ -6,17 +6,17 @@ import { getClient } from "lib/client";
 import type { Post } from "common-types";
 import urlFor from "lib/urlFor";
 import { PortableText } from "@portabletext/react";
-import { RichText } from "@/app/components/Blog/RichText";
+import { RichText } from "@/app/components/Common/RichText";
 import BlogCategoryList from "@/app/components/Blog/BlogCategoryList";
 import BlogSearch from "@/app/components/Blog/BlogSearch";
 import { Metadata } from "next";
 import PreviewNotif from "@/app/components/Common/PreviewNotif";
 
 export const revalidate = 60;
-export const fetchCache = 'force-no-store';
+export const fetchCache = "force-no-store";
 
 export const metadata: Metadata = {
-  title: "Awd - DetailArtikel",
+  title: "Awd - Detail Artikel",
   description: "Awd",
 };
 
